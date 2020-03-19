@@ -21,7 +21,7 @@ namespace DatingApp.API.Dtos
 
         public string Introduction { get; set; }
 
-        public string Lookingfor { get; set; }
+        public string LookingFor { get; set; }
 
         public string Interests { get; set; }
 
